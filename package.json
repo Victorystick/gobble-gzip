@@ -1,0 +1,21 @@
+{
+  "name": "gobble-gzip",
+  "version": "0.1.0",
+  "description": "Gzips files as a gobble transform",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Victorystick/gobble-gzip.git"
+  },
+  "keywords": [
+    "gobble-plugin",
+    "gobble",
+    "gzip"
+  ],
+  "author": "Oskar Segersvärd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Victorystick/gobble-gzip/issues"
+  },
+  "homepage": "https://github.com/Victorystick/gobble-gzip#readme"
+}

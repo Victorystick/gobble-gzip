@@ -1,0 +1,4 @@
+.gobble
+.gobble-build
+dist
+node_modules
